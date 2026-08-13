@@ -266,7 +266,7 @@ Please cite our paper if you find the code or dataset useful.
 @article{guo2026cider,
   title   = {CIDER: Contextual Disclosure Boundaries for Privacy Preference Alignment},
   author  = {Guo, Bingcan and Xu, Eryue and Zhou, Jijie and Zhang, Zhiping and Li, Tianshi},
-  journal = {arXiv preprint arXiv:},
+  journal = {arXiv preprint arXiv:2608.09164},
   year    = {2026}
 }
 ```
