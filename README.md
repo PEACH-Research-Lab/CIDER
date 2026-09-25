@@ -1,4 +1,4 @@
-# CIDER: Contextual Disclosure Boundaries for Privacy Preference Alignment
+# CIDER: A Dataset of Contextual Disclosure Boundaries for Privacy Preference Alignment
 
 [![Paper](https://img.shields.io/badge/Paper-CIDER.pdf-b31b1b.svg)](https://arxiv.org/abs/2608.09164)
 [![Python](https://img.shields.io/badge/python-3.11+-3776AB?logo=python&logoColor=white)](https://www.python.org/downloads/)
@@ -264,7 +264,7 @@ Please cite our paper if you find the code or dataset useful.
 
 ```
 @article{guo2026cider,
-  title   = {CIDER: Contextual Disclosure Boundaries for Privacy Preference Alignment},
+  title   = {CIDER: A Dataset of Contextual Disclosure Boundaries for Privacy Preference Alignment},
   author  = {Guo, Bingcan and Xu, Eryue and Zhou, Jijie and Zhang, Zhiping and Li, Tianshi},
   journal = {arXiv preprint arXiv:2608.09164},
   year    = {2026}
